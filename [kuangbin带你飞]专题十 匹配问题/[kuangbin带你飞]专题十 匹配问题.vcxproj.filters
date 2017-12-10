@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="O - Steady Cow Assignment  POJ 3189.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P hdu 2255 奔小康赚大钱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A HDU 1045 Fire Net.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B hdu2444The Accomodation of Students.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C  hdu 1083 Courses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D hdu 1281 棋盘游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E  2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E HDU 2819 Swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F - Rain on your Parade HDU 2389.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G HDU 4185 Oil Skimming.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H POJ 3020：Antenna Placement（无向二分图的最小路径覆盖）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I HDU 1054 Strategic Game POJ1463.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J HDU 1151 Air Raid poj 1422.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="k poj 2594 Treasure Exploration最小路径覆盖，可重点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L hdu 3829 Cat VS Dog (二分匹配 求 最大独立集).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="M POJ 2289--Jamie%27s Contact Groups hdu 1669.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N 2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N POJ 2112 Optimal Milking.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N3 Dinic模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分图匹配 匈牙利算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分图匹配(Hopcroft-Carp的算法).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
