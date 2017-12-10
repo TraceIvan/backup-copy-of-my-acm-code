@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="J - Travelling hdu 3001 标程1 BFS+状压.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J - Travelling hdu 3001 标程1 DP+状压.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A - Eight hdu 1043（双向广搜+康拓展开）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A - Eight POJ 1077 hdu 1043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B Eight II HDU 3567.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B 标程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B 标程2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C HDU2181 哈密顿绕行世界问题(DFS).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D HDU3533 Escape(BFS).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E - DNA sequence  HDU 1560.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G HDU 3085 Nightmare Ⅱ (双向BFS).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H  hdu1067-Gap(bfs+哈希).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I HDU 2102 A计划 BFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J - Travelling hdu 3001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="补  hdu 1072 nightmare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据生成.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F ZOJ 2477 Magic Cube 三阶魔方还原%28IDA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
