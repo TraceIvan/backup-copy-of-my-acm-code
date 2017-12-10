@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="M hdu 2612 Find a way %28BFS%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A - 棋盘问题  POJ 1321.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B POJ2251  Dungeon Master(BFS).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C HDU2717 POJ 3278 Catch That Cow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D - Fliptile POJ 3279.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E   Find The Multiple (POJ_1426).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F POJ 3126 Prime Path(素数变换路径).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G Shuffle%27m Up POJ 3087.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H poj 3414 Pots (bfs+路径记录).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I UVA11624 Fire!.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="K  HDU1241 Oil Deposits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L HDU ACM 1495 非常可乐(广搜BFS).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="POJ 3984 迷宫问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
