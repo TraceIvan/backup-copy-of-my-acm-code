@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="J  【HDU】 1466 计算直线交点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A 排列组合 hdu 1521.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B UVa 10916 - Factstone Benchmark.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C hdu 2065 红色病毒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D zoj 1239 Hanoi Tower Troubles Again!.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E hdu1465不容易系列之一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F HDU-3625-Examining the Rooms.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G hdoj-4045-Machine scheduling.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H HDU 1023 Train Problem II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU 1297 Children’s Queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
