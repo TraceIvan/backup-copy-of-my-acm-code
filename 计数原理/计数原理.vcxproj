@@ -18,10 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="F POJ 3286- How many 0%27s.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91424877-71E0-4D94-A214-7D9912CEDEC5}</ProjectGuid>
+    <ProjectGuid>{1C0CD290-5E15-4742-9678-B58B3129DFD9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kuangbin带你飞专题十二基础DP1</RootNamespace>
+    <RootNamespace>计数原理</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

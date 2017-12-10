@@ -18,10 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="K hdu 3336 Count the string.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91424877-71E0-4D94-A214-7D9912CEDEC5}</ProjectGuid>
+    <ProjectGuid>{B927B55E-64FF-4682-AC3A-F6264AE5466B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kuangbin带你飞专题十二基础DP1</RootNamespace>
+    <RootNamespace>kuangbin带你飞专题十六KMP扩展KMPManacher</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

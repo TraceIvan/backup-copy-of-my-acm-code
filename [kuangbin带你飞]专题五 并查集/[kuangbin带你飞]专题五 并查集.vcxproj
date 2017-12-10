@@ -18,10 +18,28 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A - Wireless Network  POJ 2236.cpp" />
+    <ClCompile Include="B - The Suspects POJ 1611.cpp" />
+    <ClCompile Include="C - How Many Tables HDU 1213.cpp" />
+    <ClCompile Include="D HDU 3038-How Many Answers Are Wrong.cpp" />
+    <ClCompile Include="E 2.cpp" />
+    <ClCompile Include="E poj 1182 食物链.cpp" />
+    <ClCompile Include="F POJ 1417 True Liars(并查集+DP).cpp" />
+    <ClCompile Include="G - Supermarket poj 1456 排序+贪心.cpp" />
+    <ClCompile Include="G 2.cpp" />
+    <ClCompile Include="H - Parity game poj-1703.cpp" />
+    <ClCompile Include="H2.cpp" />
+    <ClCompile Include="I - Navigation Nightmare poj 1984.cpp" />
+    <ClCompile Include="J hdu 1829 A Bug%27s Life.cpp" />
+    <ClCompile Include="K - Rochambeau poj 2912.cpp" />
+    <ClCompile Include="M HDU 1272 小希的迷宫.cpp" />
+    <ClCompile Include="N - Is It A Tree  POJ 1308.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91424877-71E0-4D94-A214-7D9912CEDEC5}</ProjectGuid>
+    <ProjectGuid>{CFB31DD2-F0F5-4200-B280-31B5E9C8A688}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kuangbin带你飞专题十二基础DP1</RootNamespace>
+    <RootNamespace>kuangbin带你飞专题五并查集</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -87,7 +105,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

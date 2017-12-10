@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91424877-71E0-4D94-A214-7D9912CEDEC5}</ProjectGuid>
+    <ProjectGuid>{E8C3EA22-4E3D-4BE8-BC24-E77487122BB5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kuangbin带你飞专题十二基础DP1</RootNamespace>
+    <RootNamespace>多校3</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -141,6 +141,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="A.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

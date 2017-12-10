@@ -18,10 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A UVA-10635 Prince and Princess.cpp" />
+    <ClCompile Include="B Uva-10891-Game of Sum.cpp" />
+    <ClCompile Include="C UVa 11825 Hackers’ Crackdown.cpp" />
+    <ClCompile Include="D Uva 10859 - Placing Lampposts.cpp" />
+    <ClCompile Include="E - Headmaster%27s Headache uva 10817  ( 状态压缩dp).cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91424877-71E0-4D94-A214-7D9912CEDEC5}</ProjectGuid>
+    <ProjectGuid>{5DB20612-9E66-4A4D-8EDD-046E657232AB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kuangbin带你飞专题十二基础DP1</RootNamespace>
+    <RootNamespace>TINA集训（四）动态规划（2）</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
