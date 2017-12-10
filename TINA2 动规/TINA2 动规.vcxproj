@@ -19,12 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1284 2 3 5 7的倍数.cpp" />
+    <ClCompile Include="B UVA 10534 Wavio Sequence%28dp + LIS%29.cpp" />
+    <ClCompile Include="E UVA 10564 Paths through the Hourglass%28dp%29.cpp" />
+    <ClCompile Include="C uva 11404 - Palindromic Subsequence%28dp%29.cpp" />
+    <ClCompile Include="F UVA 11552 Fewest Flops.cpp" />
+    <ClCompile Include="A UVa 11584 Partitioning by Palindromes%28字符串区间dp%29.cpp" />
+    <ClCompile Include="D UVA 11795 - Mega Man%27s Mission%28状态压缩dp%29.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3FB8FC82-599E-4C9B-AFF0-B9013DFA003B}</ProjectGuid>
+    <ProjectGuid>{18BBF9FA-6424-4F18-8B6C-A365AB994B88}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My51nod</RootNamespace>
+    <RootNamespace>TINA2动规</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

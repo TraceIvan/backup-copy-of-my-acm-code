@@ -19,12 +19,28 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1284 2 3 5 7的倍数.cpp" />
+    <ClCompile Include="A - Til the Cows Come Home  POJ 2387.cpp" />
+    <ClCompile Include="B POJ 2253 Frogger.cpp" />
+    <ClCompile Include="C - Heavy Transportation poj1797.cpp" />
+    <ClCompile Include="D  Silver Cow Party POJ 3268.cpp" />
+    <ClCompile Include="E POJ 1860 Currency Exchange.cpp" />
+    <ClCompile Include="F POJ-3259-Wormholes.cpp" />
+    <ClCompile Include="G poj1502 - MPI Maelstrom.cpp" />
+    <ClCompile Include="H - Cow Contest   POJ-3660.cpp" />
+    <ClCompile Include="I  HDU 1217 Arbitrage.cpp" />
+    <ClCompile Include="J HDU1535 Invitation Cards poj1511.cpp" />
+    <ClCompile Include="K - Candies POJ3159差分约束+栈SPFA.cpp" />
+    <ClCompile Include="L - Subway  POJ 2502.cpp" />
+    <ClCompile Include="M - 昂贵的聘礼 POJ 1062.cpp" />
+    <ClCompile Include="N  POJ 1847 Tram.cpp" />
+    <ClCompile Include="O - Extended Traffic LightOJ - 1074.cpp" />
+    <ClCompile Include="P - The Shortest Path in Nya Graph HDU - 4725.cpp" />
+    <ClCompile Include="Q - Marriage Match IV HDU - 3416.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3FB8FC82-599E-4C9B-AFF0-B9013DFA003B}</ProjectGuid>
+    <ProjectGuid>{874C0CCE-8F69-4656-85E4-B0282E2C8827}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My51nod</RootNamespace>
+    <RootNamespace>kuangbin带你飞专题四最短路练习</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -91,7 +107,6 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -105,7 +120,6 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -121,7 +135,6 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,7 +152,6 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

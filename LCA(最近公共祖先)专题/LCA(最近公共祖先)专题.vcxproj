@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1284 2 3 5 7的倍数.cpp" />
+    <ClCompile Include="hdu 4547 CD操作.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3FB8FC82-599E-4C9B-AFF0-B9013DFA003B}</ProjectGuid>
+    <ProjectGuid>{F3C8E587-42AF-4B08-8142-357696FAA964}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My51nod</RootNamespace>
+    <RootNamespace>LCA最近公共祖先专题</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

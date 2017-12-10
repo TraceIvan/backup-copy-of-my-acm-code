@@ -19,12 +19,28 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1284 2 3 5 7的倍数.cpp" />
+    <ClCompile Include="A - Eight hdu 1043（双向广搜+康拓展开）.cpp" />
+    <ClCompile Include="A - Eight POJ 1077 hdu 1043.cpp" />
+    <ClCompile Include="B Eight II HDU 3567.cpp" />
+    <ClCompile Include="B 标程.cpp" />
+    <ClCompile Include="B 标程2.cpp" />
+    <ClCompile Include="C HDU2181 哈密顿绕行世界问题(DFS).cpp" />
+    <ClCompile Include="D HDU3533 Escape(BFS).cpp" />
+    <ClCompile Include="E - DNA sequence  HDU 1560.cpp" />
+    <ClCompile Include="G HDU 3085 Nightmare Ⅱ (双向BFS).cpp" />
+    <ClCompile Include="F ZOJ 2477 Magic Cube 三阶魔方还原%28IDA%29.cpp" />
+    <ClCompile Include="H  hdu1067-Gap(bfs+哈希).cpp" />
+    <ClCompile Include="I HDU 2102 A计划 BFS.cpp" />
+    <ClCompile Include="J - Travelling hdu 3001 标程1 BFS+状压.cpp" />
+    <ClCompile Include="J - Travelling hdu 3001 标程1 DP+状压.cpp" />
+    <ClCompile Include="J - Travelling hdu 3001.cpp" />
+    <ClCompile Include="数据生成.cpp" />
+    <ClCompile Include="补  hdu 1072 nightmare.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3FB8FC82-599E-4C9B-AFF0-B9013DFA003B}</ProjectGuid>
+    <ProjectGuid>{A11D8D8E-9566-4D39-AE8B-28F777E5ABAD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My51nod</RootNamespace>
+    <RootNamespace>kuangbin带你飞专题二搜索进阶</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
